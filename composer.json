@@ -1,0 +1,13 @@
+{
+    "name": "larakit/sf-jquery-ui",
+    "description": "[Larakit] [staticfiles] jQueryUI",
+    "license": "MIT",
+    "require":{
+        "larakit/sf-jquery":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
